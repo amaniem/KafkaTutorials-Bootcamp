@@ -1,0 +1,6 @@
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-msg-producer-consumer/src/main/java/com/amanem/kafka/consumer/SpringBootKafkaConsumer.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-msg-producer-consumer/src/main/java/com/amanem/kafka/Application.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-msg-producer-consumer/src/main/java/com/amanem/kafka/producer/SpringBootKafkaProducer.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-msg-producer-consumer/src/main/java/com/amanem/kafka/config/Config.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-msg-producer-consumer/src/main/java/com/amanem/kafka/model/Tutorial.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-msg-producer-consumer/src/main/java/com/amanem/kafka/controller/SpringBootKafkaRestController.java

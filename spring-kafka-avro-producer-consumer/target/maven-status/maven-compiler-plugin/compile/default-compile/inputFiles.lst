@@ -1,0 +1,7 @@
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/kafka/model/StockHistoryModel.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/kafka/consumer/SpringBootAvroConsumer.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/kafka/Application.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/kafka/controller/SpringAvroRestController.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/schema/StockHistory.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/kafka/producer/SpringAvroProducer.java
+/home/aman/IdeaProjects/KafkaTutorials-Bootcamp/spring-kafka-avro-producer-consumer/src/main/java/com/aman/avro/kafka/config/Config.java

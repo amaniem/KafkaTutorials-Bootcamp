@@ -1,0 +1,10 @@
+com/aman/avro/schema/StockHistory$Builder.class
+com/aman/avro/kafka/Application.class
+com/aman/avro/kafka/consumer/SpringBootAvroConsumer.class
+com/aman/avro/kafka/producer/SpringAvroProducer$1.class
+com/aman/avro/schema/StockHistory$1.class
+com/aman/avro/kafka/model/StockHistoryModel.class
+com/aman/avro/schema/StockHistory.class
+com/aman/avro/kafka/controller/SpringAvroRestController.class
+com/aman/avro/kafka/config/Config.class
+com/aman/avro/kafka/producer/SpringAvroProducer.class
