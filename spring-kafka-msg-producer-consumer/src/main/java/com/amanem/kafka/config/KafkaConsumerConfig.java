@@ -13,7 +13,7 @@ import org.springframework.kafka.listener.ConcurrentMessageListenerContainer;
 import org.springframework.kafka.support.serializer.JsonDeserializer;
 
 @Configuration
-public class Config {
+public class KafkaConsumerConfig {
 
     @Bean
     public ConsumerFactory<String,Tutorial> consumerFactory(KafkaProperties kafkaProperties){
