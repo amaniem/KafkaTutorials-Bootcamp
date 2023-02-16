@@ -11,9 +11,10 @@ public class SpringBootKafkaRestController {
     @Autowired
     SpringBootKafkaProducer springBootKafkaProducer;
 
-    @GetMapping(value = "/send/{message}")
-    public void send(@PathVariable String message) {
-        springBootKafkaProducer.sendMessage(message);
+    @PostMapping(value = "/send/{message}")
+   public void send(@PathVariable String message) {
+       springBootKafkaProducer.sendMessage(message);
+       //test
     }
 
     @PostMapping(value = "/sendTutorialMessage")
